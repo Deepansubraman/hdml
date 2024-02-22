@@ -1,0 +1,20 @@
+<!DOCTYPE hdml >
+<hdml>
+    <head>
+        <title>ovo teashop</title>
+        <link rel="icon" href="icon.jpeg">
+    </head>
+    <body>
+        <center>
+  <H1>OVO 🍟 </H1>
+<H2>SINCE 2024</H2>
+<H3>RESTAURENT GRAND OPENING</H3>
+<HR>
+</CENTer>
+<P>“It don’t open, they launch.”</P>
+<p>       You can’t watch an episode of Bar Rescue without hearing the host give that piece of advice.
+     While TV shows like Bar Rescue are problematic in their depictions of reality and appropriate behavior, 
+     I happen to believe this phrase holds as much truth with restaurants as it does bars and nightclubs.</p>
+     <img src="res.jpg>
+    </body>
+</hdml>
